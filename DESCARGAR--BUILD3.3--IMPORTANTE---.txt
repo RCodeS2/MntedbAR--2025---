@@ -1,0 +1,8 @@
+Este es link de la version estable 3.3 de mantenimientoARA
+https://drive.google.com/file/d/1_Q9b1mykY0R3hXz3KZ6Ucd2Tx2-722ZJ/view?usp=sharing
+
+MANTENIMIENTO AR
+Objetivo General:
+Desarrollar un sistema de entrenamiento basado en Realidad Mixta (RM), denominado MantenimientoAR, que permita optimizar los procesos de mantenimiento y reparación de equipos
+informáticos a través de simulaciones interactivas, adaptadas al nivel de experiencia del técnico y que contribuyan a mejorar la precisión, eficiencia y seguridad en la 
+ejecución de tareas técnicas.
